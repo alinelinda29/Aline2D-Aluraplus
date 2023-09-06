@@ -1,6 +1,16 @@
+body{
+    background-color: black;
+}
+
+.titulo{
+    color: rgb(255, 255, 255);
+}
+
 .botao{
     background-color: rgb(0, 228, 228);
     color: rgb(0, 0, 0);
-    margin: 12px;
-    padding: 80px;
+    font-size: large;
+    text-decoration:large;
+    padding:12px;
+    border-radius: 80px;
 }
